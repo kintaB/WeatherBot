@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kintaB/WeatherBot#readme",
   "dependencies": {
+    "config": "^3.3.3",
+    "dotenv": "^8.2.0",
     "node-telegram-bot-api": "0.50.0"
   }
 }
